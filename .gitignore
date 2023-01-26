@@ -2,4 +2,5 @@
 /logs
 /venv
 /artifact
-
+/prediction
+/saved_models
